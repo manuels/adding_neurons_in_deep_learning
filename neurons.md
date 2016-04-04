@@ -1,3 +1,6 @@
+How to add new layers to deep neural networks?
+==============================================
+
 I am a newbie in deep learning and from my point of view the design of artificial neuronal networks is pretty much arbitrary. Sure, behind some design there is heuristic reasoning, but if you want to add another layer to improve the performance of your neuronal net, AFAIK there is no rule of thumb where to insert it into your neuronal network.
 
 So I performed a little Gedankenexperiment this weekend with this small example:
