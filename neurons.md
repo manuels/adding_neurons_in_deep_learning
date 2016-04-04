@@ -64,5 +64,5 @@ The argumentation here is just for a very small network but you can adopt this a
                /       /
     ...--(Hn-1)--------
 
-I have no idea if this argumentation is correct and if this has been shown before, but I would appreciate some feedback on stackoverflow.
+I have no idea if this argumentation is correct and if this has been shown before, but I would appreciate some [feedback on stackoverflow](https://news.ycombinator.com/item?id=11425188).
 
